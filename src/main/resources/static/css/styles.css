@@ -1,0 +1,12 @@
+/* styles.css */
+body {
+    padding-top: 5rem;
+    background-color: lightblue; /* Add light blue background color */
+}
+
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+
+/* Add more custom styles here */
