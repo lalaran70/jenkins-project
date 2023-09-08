@@ -11,7 +11,7 @@
     </parent>
 
     <groupId>com.jendareyconsulting</groupId>
-    <artifactId>voting-result-app</artifactId>
+    <artifactId>voting-result-app-one</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
     <name>voting-result-app</name>
@@ -70,6 +70,7 @@
     </distributionManagement>
 
     <build>
+        <finalName>war-voting-result-app-one</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
