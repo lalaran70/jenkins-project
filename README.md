@@ -30,8 +30,8 @@ project url  --:
 ```
 https://github.com/JendareyTechnologies/jenkins-project.git
 ```
-slack workspace id: jendareytechn-vrf6982
+slack workspace id: jendareytechnologies2
 
 Slack channel: #jenkins-project
 
-To be presented by representative of each team on Thursday 10/26/2023 for 30 minutes each:
+To be presented by a representative of each team on Thursday 10/26/2023 for 30 minutes each:
