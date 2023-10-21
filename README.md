@@ -1,7 +1,7 @@
 # PROJECT:
 # Final Jenkins Project: on Thursday - 10/26/2023  - 6:00 PM CST
 
-jenkins-classa23-project: For all Teams:- Developer Team, DevOps Team, ITOpreation Team.
+jenkins-classa23-project: For all Teams:- Developer's Team, DevOps Team, ITOpreation's Team.
 
 Create a Jenkins Continuous Integration Continuous Deployment using Declarative Pipeline Syntax: With the below stages:
 
