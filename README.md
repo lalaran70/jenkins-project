@@ -28,7 +28,7 @@ Create a Jenkins Continuous Integration Continuous Deployment using Declarative 
 
 project url  --:  
 ```
-https://github.com/JendareyTechnologies/jenkins-project-.git
+https://github.com/JendareyTechnologies/jenkins-project.git
 ```
 slack workspace id: jendareytechn-vrf6982
 
