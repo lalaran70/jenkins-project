@@ -78,7 +78,7 @@
      </distributionManagement>
 
     <build>
-        <finalName>votingappweb</finalName>
+        <finalName>classa23-jenkins-project</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
