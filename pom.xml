@@ -12,7 +12,7 @@
 
     <groupId>com.jendareyconsulting</groupId>
     <artifactId>voting-result-app-one</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
     <name>voting-result-app</name>
     <description>Jendarey Engineer's Voting-Result-App Project</description>
@@ -63,7 +63,7 @@
         
     </dependencies>
     
-    <distributionManagement>
+     <distributionManagement>
         <repository>
             <id>nexus</id>
             <name>Jendarey Technologies Releases Nexus Repository</name>
@@ -73,12 +73,14 @@
         <snapshotRepository>
             <id>nexus</id>
             <name>Jendarey Technologies Snapshot Nexus Repository</name>
-            <url>http://54.144.153.103:8081/jendarey/repository/vote-project-snapshot/</url> 
+            <url>http://54.144.153.103:8081/jendarey/repository/vote-project-snapshot2/</url> 
         </snapshotRepository>
-     </distributionManagement>
+    </distributionManagement>
+	
+           
 
     <build>
-        <finalName>classa23-jenkins-project</finalName>
+        <finalName>New-classa23-jenkins-project</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
